@@ -4,13 +4,13 @@ A production-ready REST API service that processes PDF documents for RAG (Retrie
 
 ## Features
 
-- ✅ PDF text extraction and processing
-- ✅ Intelligent text chunking with semantic splitting
-- ✅ Automatic embedding generation with E5 model (multilingual-e5-large)
-- ✅ Batch processing for efficient API usage
-- ✅ Vector storage in Pinecone with metadata
-- ✅ Comprehensive error handling and validation
-- ✅ TypeScript for type safety
+- PDF text extraction and processing
+- Intelligent text chunking with semantic splitting
+- Automatic embedding generation with E5 model (multilingual-e5-large)
+- Batch processing for efficient API usage
+- Vector storage in Pinecone with metadata
+- Comprehensive error handling and validation
+- TypeScript for type safety
 
 ## Tech Stack
 
